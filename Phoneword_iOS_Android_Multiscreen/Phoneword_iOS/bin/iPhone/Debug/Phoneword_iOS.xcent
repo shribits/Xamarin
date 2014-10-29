@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>SJ4M429CQ6.com.your-company.Phoneword_iOS</string>
+	<key>com.apple.developer.default-data-protection</key>
+	<string>NSFileProtectionComplete</string>
+	<key>com.apple.developer.ubiquity-container-identifiers</key>
+	<array>
+		<string>7V723M9SQ5.com.your-company.Phoneword_iOS</string>
+	</array>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>7V723M9SQ5.com.your-company.Phoneword_iOS</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>inter-app-audio</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>SJ4M429CQ6.com.your-company.Phoneword_iOS</string>
+	</array>
+</dict>
+</plist>
